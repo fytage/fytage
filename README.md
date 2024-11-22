@@ -4,4 +4,4 @@
 <h5>I sometimes think of something random and make it a reality.</h5>
 
 <br>
-🔭 I’m currently a Developer for [Czech-Survival](https://www.czech-survival.cz)
+🔭 I’m currently a Developer for [CzechSurvival](https://www.czech-survival.cz)
