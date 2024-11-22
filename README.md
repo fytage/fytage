@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm a very lazy developer (Most of the times)
-Sometimes I think of random stuff to do and I make it a reality
+I'm a very lazy developer (Most of the times)\n
+Sometimes I think of random stuff to do and I make it a reality\n
 Currently a Developer for https://czech-survival.cz
 
 <!--
