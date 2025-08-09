@@ -27,12 +27,11 @@
 ---
 
 ## 📊 GitHub Stats:
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=fytage&theme=radical" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=fytage&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fytage&layout=compact&theme=radical" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fytage&layout=compact&theme=radical" />
 </a>
 
 ---
