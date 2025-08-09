@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats:
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=fytage&theme=radical&rank_icon=github" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fytage&layout=compact&card_width=320&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fytage&langs_count=8&layout=compact&card_width=320&theme=radical" />
 </div>
 
 ---
