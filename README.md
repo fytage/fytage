@@ -20,7 +20,7 @@
 ## About me
 - I build things for communities: Discord servers, Minecraft servers, bots, websites, VS Code extensions - anything that makes user experiences better.  
 - Product mindset: <strong>functionality > design</strong>, but I still care about looks and polish.  
-- I enjoy teaching and knowledge‑sharing (with server owners, friends, and my boyfriend).  
+- I enjoy teaching and knowledge‑sharing (with server owners, friends, etc.).  
 - Proudly gay 🏳️‍🌈 and dating <a href="https://github.com/Wiktorxd-1">@Wiktorxd-1</a>. (Though you wouldn't be able to tell just by talking with me, I'm not that type)
 - Certified night owl - I get a lot done after dark 🌌
 
@@ -31,7 +31,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fytage&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 style="margin-left:50px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fytage&layout=compact&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fytage&layout=compact&card_width=320&theme=radical" />
 </a>
 
 ---
