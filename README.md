@@ -14,7 +14,6 @@
 - Minecraft ecosystem: Spigot/Paper/Purpur/Velocity, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
 - Discord: Server management and Discord bots  
 - Translation: Czech ↔ English  
-- Workflow: Can efficiently work with AI to triage and fix bugs (If you take that as a skill, I expect anyone to be able to do this)
 
 ---
 
