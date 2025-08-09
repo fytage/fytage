@@ -10,7 +10,7 @@
 </p>
 
 ## Tech & skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,html,php,css,mysql,nodejs,vscode,discordjs,discord,bots,cloudflare,apple)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,mysql,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,digitalocean,excel,githubcopilot,ubuntu,slack,word)
 - Minecraft ecosystem: Spigot/Paper, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
 - Discord: Server management and Discord bots  
 - Translation: Czech ↔ English  
