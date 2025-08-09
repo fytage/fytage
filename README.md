@@ -11,7 +11,7 @@
 
 ## Tech & skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,mysql,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,digitalocean,excel,githubcopilot,ubuntu,slack,word)
-- Minecraft ecosystem: Spigot/Paper, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
+- Minecraft ecosystem: Spigot/Paper/Purpur/Velocity, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
 - Discord: Server management and Discord bots  
 - Translation: Czech ↔ English  
 - Workflow: Can efficiently work with AI to triage and fix bugs (If you take that as a skill, I expect anyone to be able to do this)
