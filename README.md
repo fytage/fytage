@@ -9,7 +9,7 @@
   <a href="https://open.spotify.com/user/kolek2zge60dgeu9s9x8n1h36">Spotify</a>
 </p>
 
-## Tech & Skills
+## 💻 Tech & Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,mysql,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,digitalocean,excel,githubcopilot,ubuntu,slack,word)
 - Minecraft ecosystem: Spigot/Paper/Purpur/Velocity, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
 - Discord: Server management and Discord bots  
@@ -17,7 +17,7 @@
 
 ---
 
-## About me
+## 👤 About me
 - I build things for communities: Discord servers, Minecraft servers, bots, websites, VS Code extensions - anything that makes user experiences better.  
 - Product mindset: <strong>functionality > design</strong>, but I still care about looks and polish.  
 - I enjoy teaching and knowledge‑sharing (with server owners, friends, etc.).  
@@ -36,7 +36,7 @@
 
 ---
 
-## Featured projects
+## ⭐ Featured projects
 - CzechSurvival Bot - <a href="https://github.com/fytage/czsbot">fytage/czsbot</a>  
 - AvaloneSurvival (Main Dev) - <a href="https://avalone-survival.cz">avalone-survival.cz</a>  
 - CzechSurvival - Minigames Server and community events (e.g., International Children’s Day) — <a href="https://czech-survival.cz">czech-survival.cz</a>  
@@ -46,18 +46,11 @@
 
 ---
 
-## What I’m like to work with
+## 🤝 What I’m like to work with
 - Consumer‑first: I build to make things easier for players and moderators.  
 - Pragmatic: ship useful features quickly, iterate, then refine the UX and visuals.  
 - Collaborative: I like teaching teammates (and server owners) so we can move faster together.  
 - Reliable at weird hours: if it’s late, I’m probably online.
-
----
-
-## Hobbies
-- Watching content (YouTube, Netflix, Disney+, movies/series)  
-- Sometimes gaming - Far Cry 4, 5, New Dawn, 6 fan 🎮  
-- Late‑night chats with my boyfriend and just existing at night
 
 ---
 
