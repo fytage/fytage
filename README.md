@@ -40,7 +40,7 @@
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fytage&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fytage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
