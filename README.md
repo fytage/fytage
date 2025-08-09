@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <strong>fytage</strong> (Šimon) 👋</h1>
-<p align="center">Developer • Minecraft & Discord Ecosystems • Night‑owl builder 🌙</p>
+<p align="center">Developer • Minecraft & Discord Ecosystems • Night‑owl builder 🌙 • Czech & English</p>
 
 <p align="center">
   <a href="https://fytage.com">Website</a> •
@@ -66,10 +66,3 @@
 - Discord: <a href="https://discord.com/users/743455055193047142">@fytage</a> (preferred)  
 - Email: <a href="mailto:fytage@fytage.com">fytage@fytage.com</a>  
 - Also: <a href="https://twitter.com/fytagee">Twitter</a> • <a href="https://fytage.com">fytage.com</a>
-
----
-
-## Quick facts
-- 💬 Languages: Czech, English
-- 🔭 Currently learning: C++  
-- 🤝 Open to: collaborations on Minecraft servers, Discord bots, web tooling, and plugin translations
