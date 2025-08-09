@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats:
 [![fytage's GitHub stats](https://github-readme-stats.vercel.app/api?username=fytage&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fytage&layout=compact&theme=radical&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fytage&layout=compact&theme=radical&card_width=500)
 
 ---
 
