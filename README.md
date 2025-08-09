@@ -31,8 +31,6 @@
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fytage&layout=compact&card_width=320&theme=radical" />
 </div>
 
-<div align="center">
-
 ---
 
 ## Featured projects
