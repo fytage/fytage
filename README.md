@@ -9,6 +9,13 @@
   <a href="https://open.spotify.com/user/kolek2zge60dgeu9s9x8n1h36">Spotify</a>
 </p>
 
+## Tech & skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,html,php,css,mysql,nodejs,vscode,discordjs,discord,bots,cloudflare,apple)](https://skillicons.dev)
+- Minecraft ecosystem: Spigot/Paper, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
+- Discord: Server management and Discord bots  
+- Translation: Czech ↔ English  
+- Workflow: Can efficiently work with AI to triage and fix bugs (If you take that as a skill, I expect anyone to be able to do this)
+
 ---
 
 ## About me
@@ -18,15 +25,6 @@
 - I enjoy teaching and knowledge‑sharing (with server owners, friends, and my boyfriend).  
 - Proudly gay 🏳️‍🌈 and dating <a href="https://github.com/Wiktorxd-1">@Wiktorxd-1</a>. (Though you wouldn't be able to tell just by talking with me, I'm not that type)
 - Certified night owl - I get a lot done after dark 🌌
-
----
-
-## Tech & skills
-- Languages: C++ (learning), JavaScript, TypeScript, HTML, PHP, CSS  
-- Minecraft ecosystem: Spigot/Paper, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
-- Discord: Server management and Discord bots  
-- Translation: Czech ↔ English  
-- Workflow: Can efficiently work with AI to triage and fix bugs (If you take that as a skill, I expect anyone to be able to do this)
 
 ---
 
