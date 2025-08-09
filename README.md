@@ -9,7 +9,9 @@
   <a href="https://open.spotify.com/user/kolek2zge60dgeu9s9x8n1h36">Spotify</a>
 </p>
 
+<div align="center">
 <img align="center" src="https://lanyard.cnrad.dev/api/743455055193047142?animatedDecoration=true" />
+</div>
 
 ## 💻 Tech & Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,mysql,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,digitalocean,excel,githubcopilot,ubuntu,slack,word)
