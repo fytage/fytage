@@ -9,6 +9,10 @@
   <a href="https://open.spotify.com/user/kolek2zge60dgeu9s9x8n1h36">Spotify</a>
 </p>
 
+<div align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/743455055193047142?animatedDecoration=true)](https://discord.com/users/743455055193047142)
+</div>
+
 ## 💻 Tech & Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,mysql,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,digitalocean,excel,githubcopilot,ubuntu,slack,word)
 - Minecraft ecosystem: Spigot/Paper/Purpur/Velocity, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
