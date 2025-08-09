@@ -9,7 +9,7 @@
   <a href="https://open.spotify.com/user/kolek2zge60dgeu9s9x8n1h36">Spotify</a>
 </p>
 
-## Tech & skills
+## Tech & Skills
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,mysql,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,digitalocean,excel,githubcopilot,ubuntu,slack,word)
 - Minecraft ecosystem: Spigot/Paper/Purpur/Velocity, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
 - Discord: Server management and Discord bots  
@@ -23,6 +23,24 @@
 - I enjoy teaching and knowledge‑sharing (with server owners, friends, and my boyfriend).  
 - Proudly gay 🏳️‍🌈 and dating <a href="https://github.com/Wiktorxd-1">@Wiktorxd-1</a>. (Though you wouldn't be able to tell just by talking with me, I'm not that type)
 - Certified night owl - I get a lot done after dark 🌌
+
+---
+
+## 📊 GitHub Stats:
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fytage&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fytage&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fytage&show_icons=true" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fytage&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
