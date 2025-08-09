@@ -19,7 +19,6 @@
 ---
 
 ## About me
-- Online I go by <strong>Šimon Fytage</strong>, if you think it’s my real last name, I won’t correct you 😉 
 - I build things for communities: Discord servers, Minecraft servers, bots, websites, VS Code extensions - anything that makes user experiences better.  
 - Product mindset: <strong>functionality > design</strong>, but I still care about looks and polish.  
 - I enjoy teaching and knowledge‑sharing (with server owners, friends, and my boyfriend).  
