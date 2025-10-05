@@ -23,7 +23,6 @@
 - I build things for communities: Discord servers, Minecraft servers, bots, websites, VS Code extensions - anything that makes user experiences better.  
 - Product mindset: <strong>functionality > design</strong>, but I still care about looks and polish.  
 - I enjoy teaching and knowledge‑sharing (with server owners, friends, etc.).  
-- Proudly gay 🏳️‍🌈 and dating <a href="https://github.com/Wiktorxd-1">@Wiktorxd-1</a>. (Though you wouldn't be able to tell just by talking with me, I'm not that type)
 - Certified night owl - I get a lot done after dark 🌌
 
 ---
