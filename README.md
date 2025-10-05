@@ -3,10 +3,8 @@
 
 <p align="center">
   <a href="https://fytage.com">Website</a> •
-  <a href="https://twitter.com/fytagee">Twitter</a> •
   <a href="https://discord.com/users/743455055193047142">Discord</a> •
-  <a href="mailto:fytage@fytage.com">Email</a> •
-  <a href="https://open.spotify.com/user/kolek2zge60dgeu9s9x8n1h36">Spotify</a>
+  <a href="mailto:fytage@fytage.com">Email</a>
 </p>
 
 <div align="center">
