@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <strong>fytage</strong> (Šimon) 👋</h1>
-<p align="center">Developer • Minecraft & Discord Ecosystems • Night‑owl builder 🌙 • Czech & English</p>
+<p align="center">16 • Developer • Minecraft & Discord Ecosystems • Night‑owl builder 🌙 • Czech & English</p>
 
 <p align="center">
   <a href="https://fytage.com">Website</a> •
