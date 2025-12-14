@@ -39,9 +39,9 @@
 
 ## ⭐ Featured projects
 - CzechSurvival Bot - <a href="https://github.com/fytage/czsbot">fytage/czsbot</a>  
-- AvaloneSurvival (Main Dev) - <a href="https://avalone-survival.cz">avalone-survival.cz</a>  
 - CzechSurvival - Minigames Server and community events (e.g., International Children’s Day) — <a href="https://czech-survival.cz">czech-survival.cz</a>  
-- Legacy ↔ MiniMessage Converter (VS Code Extension) — <a href="https://marketplace.visualstudio.com/items?itemName=fytage.legacy-to-minimessage">Marketplace link</a>  
+- Legacy ↔ MiniMessage Converter (VS Code Extension) — <a href="https://marketplace.visualstudio.com/items?itemName=fytage.legacy-to-minimessage">Marketplace link</a>
+- Managed several live Minecraft servers with players
 - Many plugin translations (Czech ↔ English)  
 - 500+ Custom Items via ExecutableItems (plus various crates and events)
 
