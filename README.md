@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <strong>fytage</strong> (Šimon) 👋</h1>
-<p align="center">16 • Developer • Minecraft & Discord Ecosystems • Night‑owl builder 🌙 • Czech & English</p>
+<p align="center">16 • Developer • Minecraft & Discord Ecosystems • Czech & English</p>
 
 <p align="center">
   <a href="https://fytage.com">Website</a> •
@@ -28,8 +28,8 @@
 ---
 
 ## ⭐ Featured projects
-- CzechSurvival Bot - <a href="https://github.com/fytage/czsbot">fytage/czsbot</a>  
-- CzechSurvival - Minigames Server and community events (e.g., International Children’s Day) — <a href="https://czech-survival.cz">czech-survival.cz</a>  
+- CzechSurvival Bot - <a href="https://discord.com/oauth2/authorize?client_id=1312081282011893821">Add it to your account!</a>  
+- CzechSurvival - Minigames Server and community events (e.g., International Children’s Day) — <a href="https://www.czech-survival.cz">czech-survival.cz</a>  
 - Legacy ↔ MiniMessage Converter (VS Code Extension) — <a href="https://marketplace.visualstudio.com/items?itemName=fytage.legacy-to-minimessage">Marketplace link</a>
 - Managed several live Minecraft servers with players
 - Many plugin translations (Czech ↔ English)  
@@ -41,7 +41,6 @@
 - Consumer‑first: I build to make things easier for players and moderators.  
 - Pragmatic: ship useful features quickly, iterate, then refine the UX and visuals.  
 - Collaborative: I like teaching teammates (and server owners) so we can move faster together.  
-- Reliable at weird hours: if it’s late, I’m probably online.
 
 ---
 
