@@ -17,7 +17,6 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,cpp,mysql,mariadb,idea,azure,clion,datagrip,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,excel,githubcopilot,ubuntu,slack,word,macos,docker,gemini&titles=true" />
   </a>
 </p>
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,js,typescript,html,php,css,cpp,mysql,mariadb,idea,azure,clion,datagrip,nodejs,vscode,discordjs,discord,discordbots,cloudflare,apple,yaml,api,canva,chatgpt,chrome,excel,githubcopilot,ubuntu,slack,word,macos,docker,gemini&titles=true)
 - Minecraft ecosystem: Spigot/Paper/Purpur/Velocity, server/network setup, plugin configuration (CMI, WorldEdit, etc.), ExecutableItems/Blocks/Events (500+ custom items, crates, events)  
 - Discord: Server management and Discord bots  
 - Translation: Czech ↔ English  
