@@ -32,7 +32,7 @@
 ---
 
 ## ⭐ Featured projects
-- CzechSurvival Bot - <a href="https://discord.com/oauth2/authorize?client_id=1312081282011893821">Add it to your account!</a>  Now open-source! -> fytage/czs-pomocnik
+- CzechSurvival Bot - <a href="https://discord.com/oauth2/authorize?client_id=1312081282011893821">Add it to your account!</a>  Now open-source! -> [fytage/czs-pomocnik](https://github.com/fytage/czs-pomocnik)
 - CzechSurvival - Minigames Server and community events (e.g., International Children’s Day) — <a href="https://www.czech-survival.cz">czech-survival.cz</a>  
 - Legacy ↔ MiniMessage Converter (VS Code Extension) — <a href="https://marketplace.visualstudio.com/items?itemName=fytage.legacy-to-minimessage">Marketplace link</a>
 - Managed several live Minecraft servers with players
